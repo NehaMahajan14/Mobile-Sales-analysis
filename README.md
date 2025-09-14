@@ -1,4 +1,5 @@
- 📱 Mobile Sales Dashboard
+ 📱 Mobile Sales Analysis in power BI
+ 
 This project is a "Power BI Dashboard" for visualizing and analyzing mobile phone sales data. It helps track total sales, quantity sold, customer feedback, and payment trends across different cities and brands.
 
  📊 Key Features
