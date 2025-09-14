@@ -1,21 +1,39 @@
-📊 Mobile Sales Power BI Dashboard
-A powerful and interactive Power BI Dashboard designed to visualize and analyze mobile sales data. This project helps business users and analysts gain insights into sales performance, product trends, revenue, customer segments, and regional growth using rich data visualizations.
+ 📱 Mobile Sales Dashboard
+This project is a "Power BI Dashboard" for visualizing and analyzing mobile phone sales data. It helps track total sales, quantity sold, customer feedback, and payment trends across different cities and brands.
 
-📁 Project File
-These are the files included in the project:
-● Mobile_Sales_Dashboard.pbix – Power BI file with all visuals and data
-● mobile_sales_data.xlsx – Sample sales data used in the report
-● dashboard_preview.png – Image preview of the dashboard
-● README.md – This file (project description)
+ 📊 Key Features
+* Total Sales Overview
+* Monthly Sales & Quantity Trends
+* Sales by Brand and Model
+* Customer Ratings Analysis
+* Sales by City and Day of Week
+* Payment Method Breakdown
+* Year-over-Year Comparison
+* Month-To-Date (MTD) Report
 
-🎯 Objectives
-The goals of this dashboard are:
-● Show total sales and total quantity sold
-● Calculate the average sales per item or    transaction
-● Count the total number of transactions
-● Track monthly quantity sold
-● Show payment method breakdown
-● Identify top-selling phone models
-● Display sales by city and day of the week
-● Show Month-to-Date (MTD) sales
-● Compare sales with the same period last    year
+🖼️ Sample Visuals
+
+🔹 Main Dashboard
+Shows total sales (₹769M), transactions, and top-performing cities, brands, and models.
+
+🔹 Same Period Last Year Report
+Compares sales across years, quarters, and months to identify growth trends.
+
+🔹 MTD Report
+Tracks daily sales growth within a selected month.
+
+ 🛠 Built With
+* Power BI
+* DAX & Power Query
+* Excel (Data Source)
+
+ 📁 Files
+* `Dashboard.jpeg` – Overview Dashboard
+* `Same Period Last Year.jpeg` – Yearly & Quarterly Comparison
+* `MTD Report.jpeg` – Month-To-Date Progress
+
+ 📌 Usage
+1. Open the `.pbix` file in Power BI Desktop.
+2. Use filters to explore brand, model, payment method, and time period.
+3. Analyze visual insights for better decision-making.
+
